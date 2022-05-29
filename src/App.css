@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+.UserList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
